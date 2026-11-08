@@ -1,7 +1,6 @@
-Hello!
-This is my first Excel Dashboard.
-The data came from Alex The Analyst (https://youtu.be/opJgMj1IUrc)
-I improvised the dashboard based on the available data.
+Hello! 
+This is my first Excel Dashboard project using a dataset from Alex The Analyst (https://youtu.be/opJgMj1IUrc)
+The dataset includes the following columns: ID, Marital Status, Gender, Income, Children, Education, Occupation, HomeOwner, Cars, Region, Age, and Purchased Bike.
 
-The data contain the columns (ID, Marital Status, Gender, Income, Children, Education, Occupation, HomeOwner, Cars, Region, Age, Purchased Bike)
-I extracted, cleaned, prepared, transformed, analyzed, and created a dashboard 
+Throughout this project, I went through the entire data analysis process: 
+extracting, cleaning, preparing, transforming, and analyzing the data, before finally creating an interactive Excel dashboard to present the insights.
